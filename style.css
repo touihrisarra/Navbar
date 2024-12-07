@@ -1,0 +1,23 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(188, 186, 186, 0.878);
+    cursor: pointer;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 25px;
+    
+}
+button{
+    color: greenyellow;
+    background-color: white;
+    border-width: 3px;
+    border-color: greenyellow;
+    cursor: pointer;
+    transition: all 0.2s ease ;
+    
+}
